@@ -18,6 +18,8 @@ HW1 - [Part 2](https://github.com/NicholasVunZhunMin/PL/blob/main/%E2%80%9CHW1_%
 HW2 - [Part 1](https://github.com/NicholasVunZhunMin/PL/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A.ipynb)
 
 HW2 - [Part 2](https://github.com/NicholasVunZhunMin/PL/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_Gradio.ipynb)
+
+HW3 - [Part 1](https://github.com/NicholasVunZhunMin/PL/blob/main/Copy_of_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
     
 ## 課程筆記區、專題連結區
 Markdown 語法說明：https://markdown.tw/
