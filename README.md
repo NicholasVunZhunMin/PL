@@ -22,6 +22,8 @@ HW2 - [Part 2](https://github.com/NicholasVunZhunMin/PL/blob/main/HW2_%E6%88%90%
 HW3 - [Part 1](https://github.com/NicholasVunZhunMin/PL/blob/main/Copy_of_HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 
 HW 3 - [Part 2](https://github.com/NicholasVunZhunMin/PL/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84._Part2.ipynb)
+
+HW 3 - [Video](https://youtu.be/ChZNhzno2LE)
     
 ## 課程筆記區、專題連結區
 Markdown 語法說明：https://markdown.tw/
